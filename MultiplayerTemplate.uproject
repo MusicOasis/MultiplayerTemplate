@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "GameplayStateTree",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "Cargo",
@@ -36,7 +36,7 @@
 		},
 		{
 			"Name": "MetaHumanCoreTech",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux"
@@ -44,7 +44,7 @@
 		},
 		{
 			"Name": "MetaHumanCharacter",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
